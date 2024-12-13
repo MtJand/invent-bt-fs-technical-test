@@ -63,3 +63,11 @@ Please work as you would normally do
 - Make reasonable assumptions about the inputs to your solution; for example, many candidates take a list of strings as input
 
 > Think about edge cases and how you would handle them e.g. empty list, null, invalid items, etc.
+
+##### Additional Java Tasks
+
+These tasks are not required but are a good opportunity to show us what you can do.
+
+- Build an image and start a container of your implementation using the provided Dockerfile
+- Create an endpoint to add a new product. Added products do not have to persist between application runs.
+- Add a special offer. For example: Buy one, get one free on Apples.
